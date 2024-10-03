@@ -96,7 +96,7 @@ spec:
   project: default
   source:
     path: lab-materials/05/app
-    repoURL: https://github.com/bhsingh1/sentiments.git
+    repoURL: https://github.com/bhsingh1/sample-airlines-gen-predective-detection.git
     targetRevision: dev
   syncPolicy:
     automated:
