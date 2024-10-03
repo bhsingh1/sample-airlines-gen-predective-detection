@@ -68,7 +68,7 @@ spec:
             cd /shared-data
             rm -r *
             #git clone https://github.com/rh-aiservices-bu/parasol-insurance
-            git clone https://github.com/bhsingh1/sentiments
+            git clone https://github.com/bhsingh1/sample-airlines-gen-predective-detection.git
             cd sentiments
             git checkout dev
             ls
